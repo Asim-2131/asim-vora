@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className={`nav-glass ${isOpen ? 'is-open' : ''}`}>
         <div className="nav-main">
           <a href="#" className="nav-logo">
-            <img src="/logo.png" alt="Logo" style={{ height: '30px', width: 'auto' }} />
+            <img src="logo.png" alt="Logo" style={{ height: '30px', width: 'auto' }} />
           </a>
 
           <div className="nav-links">

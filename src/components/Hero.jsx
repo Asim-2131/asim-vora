@@ -26,7 +26,7 @@ const Hero = () => {
                         <div className="profile-banner" style={{
                             height: '240px',
                             width: '100%',
-                            backgroundImage: 'url("/Asim.jpg")',
+                            backgroundImage: 'url("Asim.jpg")',
                             backgroundPosition: '50%',
                             backgroundRepeat: 'no-repeat',
                             backgroundSize: 'cover',
